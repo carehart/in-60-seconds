@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds/master?grs=github)
 
-# GitPitch In 60 Seconds
+# GitPitch In 60 Seconds, master
 
 To experience the simplicity and power of the GitPitch markdown
 presentation service, follow along with this short tutorial.
