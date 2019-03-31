@@ -1,9 +1,9 @@
-# Let's Get Started!
+# Let's Get Started
 
 
 ---
 
-## Add Some Slide Candy!
+## Add Some Slide Candy 2
 
 @ul
 
