@@ -1,5 +1,10 @@
 # Let's Get Started! m
 
+Note:
+- 1
+- 2
+34
+
 ---
 
 ## Add Some Slide Candy
