@@ -1,7 +1,7 @@
 # Let's Get Started!
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
@@ -11,7 +11,7 @@
 
 Note:
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
