@@ -22,14 +22,21 @@ Note:
 
 ---
 
-## Add Some Slide Candy
+## Add Some Slide Candy!
 
-![](assets/img/presentation.png)
+@snap[west span-55]
+@ul[spaced text-black]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
+@snapend
 
 Note:
 - 1
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
