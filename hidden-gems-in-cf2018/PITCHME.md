@@ -3,11 +3,13 @@
 
 ---
 
-## Add Some Slide Candy 2
+## Add Some Slide Candy 3
 
 @ul
 
-- Plain text list item @note[Cool! - Fragment specific - speaker notes :)]
+- Plain text list item @note[Cool! 
+- Fragment specific 
+- speaker notes :)]
 - Rich **markdown** list *item*
 - Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
