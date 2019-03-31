@@ -1,48 +1,17 @@
 # Let's Get Started!
 
-@snap[west span-55]
-@ul[spaced text-black]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-Note:
-@snap[west span-55]
-@ul[spaced text-black]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
 
 ---
 
 ## Add Some Slide Candy!
 
-@snap[west span-55]
-@ul[spaced text-black]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+@ul
 
-Note:
-- 1
-@snap[west span-55]
-@ul[spaced text-black]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
 @ulend
-@snapend
 
 
 ---
